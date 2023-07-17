@@ -2,22 +2,22 @@
 
 @font-face {
   font-family: TitanOne-Regular;
-  src: url(/fonts/titan_one/TitanOne-Regular.ttf);
+  src: url(./fonts/titan_one/TitanOne-Regular.ttf);
 }
 
 @font-face {
   font-family: AvenirLTStd-Roman;
-  src: url(/fonts/avenir_ff/AvenirLTStd-Roman.otf);
+  src: url(./fonts/avenir_ff/AvenirLTStd-Roman.otf);
 }
 
 @font-face {
   font-family: AvenirLTStd-Book;
-  src: url(/fonts/avenir_ff/AvenirLTStd-Book.otf);
+  src: url(./fonts/avenir_ff/AvenirLTStd-Book.otf);
 }
 
 @font-face {
   font-family: AvenirLTStd-Black;
-  src: url(/fonts/avenir_ff/AvenirLTStd-Black.otf);
+  src: url(./fonts/avenir_ff/AvenirLTStd-Black.otf);
 }
 
 /* Universal Selector-------------------------------------*/
